@@ -20,7 +20,7 @@ The department produced gas meters and gas regulators and had a workforce of rou
 
 Employee follow-up was only one part of the production-engineering workload. The same small management structure also had to monitor products, production activity and production lines.
 
-Tracking leave and absences manually across roughly 100 employees made it difficult to maintain a clear history and review requests consistently across teams.
+Tracking leave and absences manually across roughly 100 employees made it difficult to maintain a clear history and review each employee's leave/absence record consistently across teams.
 
 I created the application to:
 
