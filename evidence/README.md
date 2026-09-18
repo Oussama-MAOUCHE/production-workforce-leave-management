@@ -34,8 +34,6 @@ The repository does not publish:
 - any real employee/personal data that may exist outside the reviewed screenshots;
 - credentials or internal identifiers.
 
-## Evidence rule
+## Documentation basis
 
-Public claims must remain traceable to reviewed project evidence or confirmed first-hand project facts.
-
-The portfolio presents the software workflow and design without expanding it into payroll, enterprise HRIS or automated fairness functionality that the evidence does not support.
+The repository is based on the reviewed project material and first-hand project context. It documents the implemented employee, absence and calendar workflows while keeping the original project and data files private.
