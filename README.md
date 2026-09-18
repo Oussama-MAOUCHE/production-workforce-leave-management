@@ -84,11 +84,9 @@ The application uses a small relational model with two main entities:
 
 Each absence record is linked to an employee through the employee ID.
 
-## Portfolio scope
+## What this project demonstrates
 
-This is a focused internal production-support application, not a payroll system or full HRIS.
-
-The project demonstrates:
+The application was built as a focused production-support tool. It demonstrates:
 
 - multi-screen desktop development;
 - CRUD business workflows;
@@ -99,7 +97,7 @@ The project demonstrates:
 - calendar-style data visualization;
 - translating an operational production need into an internal software tool.
 
-The screenshots use test/demo data. Raw HFSQL files, WINDEV project files and internal development artifacts remain private.
+The screenshots use test/demo data. The original HFSQL data and WINDEV project files remain private.
 
 See:
 
