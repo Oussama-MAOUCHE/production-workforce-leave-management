@@ -1,16 +1,14 @@
 # Production Workforce Leave & Absence Management Application
 
-Windows desktop application I designed and developed in-house while working in a gas-production department at **AMC (later SAIEG — Sonelgaz Group)**.
+Windows desktop application I designed and developed in-house while working in the production department at **EN-AMC (later SAIEG — Sonelgaz Group)**.
 
-The department covered gas-meter and gas-regulator production and had a workforce of roughly 100 people. With a lean supervisory structure, keeping employee records, annual leave, sick leave and other absences consistent and easy to review was time-consuming. I built this application on my own initiative to centralize that follow-up and give the production team a clearer view of workforce availability and absence history.
-
-The application supported human decision-making; it did not automatically allocate leave or calculate a fairness score.
+The department produced gas meters and gas regulators and had a workforce of roughly 100 people. With a lean supervisory structure, manually tracking employee records, annual leave, sick leave and other absences alongside production responsibilities was time-consuming and difficult to keep consistent. I built the application on my own initiative to centralize that follow-up and give the production team a clearer view of leave history and workforce availability.
 
 ## At a glance
 
 | Area | Details |
 |---|---|
-| Professional context | Gas production department — AMC / later SAIEG (Sonelgaz Group) |
+| Professional context | Production department — EN-AMC / later SAIEG (Sonelgaz Group) |
 | My contribution | Independently initiated, designed and developed the application |
 | Application type | Windows desktop business application |
 | Technologies | WINDEV / WLanguage, HFSQL |
