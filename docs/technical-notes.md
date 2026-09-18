@@ -16,7 +16,7 @@ Surviving project artifacts begin in January 2020.
 
 Core employee/absence screens and query artifacts were developed during 2020, with later project/environment artifacts continuing into 2021.
 
-The portfolio therefore records the evidence span as **2020–2021** without inventing a single exact release date.
+The surviving project files therefore place the application's development across **2020–2021**.
 
 ## Employee workflow
 
@@ -82,18 +82,8 @@ Surviving project/runtime artifacts support:
 - WINDEV 23 runtime components;
 - local HFSQL data storage.
 
-The public repository documents the verified application design and workflow without republishing proprietary native project/database files.
+The repository documents the application design and workflow while the native project and data files remain private.
 
-## Scope boundary
+## Application focus
 
-The application is presented as a focused production-workforce support tool.
-
-It does not claim:
-
-- payroll processing;
-- automated leave approval;
-- entitlement-balance calculation;
-- statutory HR compliance;
-- a fairness-scoring algorithm;
-- a quantified absenteeism-reduction percentage;
-- enterprise HRIS scope.
+The application focuses on employee records, leave/absence tracking and monthly workforce visibility. Payroll, entitlement balances and automated approval workflows were not part of the functionality documented in this project.
