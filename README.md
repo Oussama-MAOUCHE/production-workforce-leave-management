@@ -8,7 +8,7 @@ The department produced gas meters and gas regulators and had a workforce of rou
 
 | Area | Details |
 |---|---|
-| Professional context | Production department — EN-AMC / later SAIEG (Sonelgaz Group) |
+| Professional context | Production department at EN-AMC (later SAIEG — Sonelgaz Group) |
 | My contribution | Independently initiated, designed and developed the application |
 | Application type | Windows desktop business application |
 | Technologies | WINDEV / WLanguage, HFSQL |
