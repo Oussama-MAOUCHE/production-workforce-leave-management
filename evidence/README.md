@@ -10,7 +10,7 @@ The case study is grounded in surviving project material, including:
 - local HFSQL data files;
 - application screenshots;
 - project backup/history artifacts;
-- first-hand project context from the developer who initiated and built the application.
+- first-hand project context from the developer who initiated, built and functionally tested the application.
 
 ## Public screenshots
 
@@ -36,4 +36,6 @@ The repository does not publish:
 
 ## Documentation basis
 
-The repository is based on the reviewed project material and first-hand project context. It documents the implemented employee, absence and calendar workflows while keeping the original project and data files private.
+The repository is based on the reviewed project material and first-hand project context. The description of developer-led functional testing is historical first-hand context; no separate formal test plan or execution log is published here.
+
+It documents the implemented employee, absence and calendar workflows while keeping the original project and data files private.
