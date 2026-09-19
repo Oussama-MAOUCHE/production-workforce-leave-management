@@ -9,7 +9,7 @@ The department produced gas meters and gas regulators and had a workforce of rou
 | Area | Details |
 |---|---|
 | Professional context | Production department at EN-AMC (later SAIEG — Sonelgaz Group) |
-| My contribution | Independently initiated, designed and developed the application |
+| My contribution | Independently initiated, designed, developed and functionally tested the application |
 | Application type | Windows desktop business application |
 | Technologies | WINDEV / WLanguage, HFSQL |
 | Main modules | Employees, leave/absence records, monthly calendar |
@@ -29,6 +29,24 @@ I created the application to:
 - make records easier to search and filter;
 - provide a monthly visual overview of workforce absences;
 - support more consistent review of leave and absence history across teams.
+
+## Testing and validation
+
+I also tested the application I developed, checking its core workflows from data entry through stored records and visual follow-up. This was developer-led functional testing rather than a separate independent QA campaign.
+
+The checks covered the main implemented behavior, including:
+
+- adding, modifying and deleting employee records;
+- adding, modifying and deleting leave/absence records;
+- employee-to-absence relationships;
+- start/end dates and displayed duration;
+- search and filtering by employee, number, section and date range;
+- monthly calendar representation of recorded absences;
+- data persistence after create/update/delete actions.
+
+The application was used in the production-department context, providing practical validation of the workflows it was built to support.
+
+No separate formal test plan or execution log is published in this repository. The testing description is based on first-hand project context together with the surviving project artifacts and application screens.
 
 ## Employee management
 
