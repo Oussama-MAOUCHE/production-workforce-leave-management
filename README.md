@@ -30,23 +30,13 @@ I created the application to:
 - provide a monthly visual overview of workforce absences;
 - support more consistent review of leave and absence history across teams.
 
-## Testing and validation
+## Testing and verification
 
-I also tested the application I developed, checking its core workflows from data entry through stored records and visual follow-up. This was developer-led functional testing rather than a separate independent QA campaign.
+I also functionally tested the application I developed. This was developer-led testing, not a separate independent QA campaign.
 
-The checks covered the main implemented behavior, including:
+The testing covered the implemented employee, leave/absence, search and filtering, and monthly calendar workflows. It was part of developing and using the application in the production-department context, with the aim of verifying that the software supported the operational follow-up it was built for.
 
-- adding, modifying and deleting employee records;
-- adding, modifying and deleting leave/absence records;
-- employee-to-absence relationships;
-- start/end dates and displayed duration;
-- search and filtering by employee, number, section and date range;
-- monthly calendar representation of recorded absences;
-- data persistence after create/update/delete actions.
-
-The application was used in the production-department context, providing practical validation of the workflows it was built to support.
-
-No separate formal test plan or execution log is published in this repository. The testing description is based on first-hand project context together with the surviving project artifacts and application screens.
+No separate formal test plan or execution log is published in this repository. This testing description is based on first-hand project context together with the surviving project artifacts and application screens.
 
 ## Employee management
 
